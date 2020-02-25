@@ -11,8 +11,10 @@
     "configuration": null,
     "fail_on_warning": false
   },
-  "python": {
-	version: 3.6
+  "python":
+  	version: 3.6
+  	{
+	
     "install": [
       {
         "requirements": null
